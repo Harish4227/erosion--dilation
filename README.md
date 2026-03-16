@@ -70,7 +70,8 @@ plt.axis('off')
 ### Display the input Image
 <br>
 <br>
-<br>! img-1
+<br>! img1.jpeg
+
 <br>
 <br>
 
